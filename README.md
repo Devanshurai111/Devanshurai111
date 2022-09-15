@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devanshurai111
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning MERN Stack Etherium 
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
